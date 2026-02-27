@@ -1,0 +1,3 @@
+Ali:Marks:90
+Ahmed:Marks:80
+Bilal:Marks:80
